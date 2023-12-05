@@ -7,7 +7,7 @@
 </rh>
 <h2 align="center">Sobre</h2>
 <div align="center">
-  <h3>My Storage é um sistema de controle de estoque compacto que tem como objetivo gerenciar seus produtos. Além de salvar as informações dos produtos (Nome e Quantidade) também é um sistema que trata o controle de entrada e saída, salvando a quantidade já calculada na tabela geral os itens adicionados ou retirados de seu estoque!</h3>
+  <h3>My Storage é um sistema de controle de estoque compacto que tem como objetivo gerenciar seus produtos. Além de salvar as informações dos produtos (Nome e Quantidade) também é um sistema que trata o controle de entrada e saída, salvando a quantidade já calculada na tabela geral dos itens adicionados ou retirados de seu estoque!</h3>
 </div>
 </br>
 </rh>
